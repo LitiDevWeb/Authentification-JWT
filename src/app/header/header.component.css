@@ -1,0 +1,16 @@
+.app-logo {
+  height: 100px;
+}
+
+.app-header {
+  height: 150px;
+  padding: 20px;
+  color: rgba(0, 0, 0, 0.664);
+  box-shadow: inset;
+  text-align: center;
+}
+
+.app-title {
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
